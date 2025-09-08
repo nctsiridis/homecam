@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+pandas
+requests
+numpy
+pytapo
+smptlib
+PyQt5

@@ -1,0 +1,7 @@
+run.sh
+recordings/
+dist/
+build/
+yolov5s.pt
+.env
+.DS_Store
